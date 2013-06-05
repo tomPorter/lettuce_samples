@@ -1,5 +1,5 @@
 from lettuce import *
-import Factorial.factorial
+import Factorial.factorial as f
 
 @step('I have the number (\d+)')
 def have_the_number(step, number):
@@ -7,7 +7,7 @@ def have_the_number(step, number):
 
 @step('I compute its factorial')
 def compute_its_fatorial(step):
-    world.number = Factorial.factorial.factorial(world.number)
+    world.number = f.factorial(world.number)
 
 @step('I see the number (\d+)')
 def check_number(step, expected):
