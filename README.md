@@ -1,5 +1,7 @@
 #Things to look into:
 
--   Splinter is a `selenium` driver.
+-   [Splinter](http://splinter.cobrateam.info/) is a `selenium` driver.
 
--   Look up `unclebob` in github which organizes tests.
+-   See [http://cilliano.com/blog/2011/02/07/django-bdd-with-lettuce-and-splinter/](http://cilliano.com/blog/2011/02/07/django-bdd-with-lettuce-and-splinter/)
+
+-   See [salad](https://github.com/salad/salad) as well which contains helpers and scaffolding for lettuce and splinter.
