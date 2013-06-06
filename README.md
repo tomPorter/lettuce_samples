@@ -6,4 +6,8 @@
 
 -   See [salad](https://github.com/salad/salad) as well which contains helpers and scaffolding for lettuce and splinter.
 
--   [Presentation](http://blip.tv/djangocon/testing-with-lettuce-and-splinter-5571880) on BDD with lettuce and splinter, good questions from POV outside of Ruby/Cucumber:
+-   [Presentation](http://blip.tv/djangocon/testing-with-lettuce-and-splinter-5571880) on BDD with lettuce and splinter, good questions from POV outside of Ruby/Cucumber.
+
+-   See [should-splinter](https://github.com/rodrigomanhaes/should-splinter) giving `shoulda` methods to splinter.
+
+-   See [this](https://github.com/delfick/flask-splinter) for a kludgey `flask` and `splinter` example.
